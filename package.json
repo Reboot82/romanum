@@ -1,0 +1,25 @@
+{
+  "name": "brandtromanum",
+  "version": "1.0.0",
+  "description": "Decrypt any Roman numeral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reboot82/romanum.git"
+  },
+  "keywords": [
+    "roman",
+    "numeral",
+    "numbers",
+    "decrypt"
+  ],
+  "author": "Brandt Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reboot82/romanum/issues"
+  },
+  "homepage": "https://github.com/Reboot82/romanum#readme"
+}

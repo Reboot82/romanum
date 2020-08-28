@@ -10,14 +10,14 @@ Give it a try!
 
 #Installation
 
-`npm i romanum --save`
+`npm i brandtromanum --save`
 
 Then..
 
 ```
-import { romanum }  from 'romanum';
+import { brandtromanum }  from 'brandtromanum';
 
-console.log(romanum("XIV"))
+console.log(brandtromanum("XIV"))
 
 //output = 14
 ```
